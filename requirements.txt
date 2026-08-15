@@ -1,0 +1,4 @@
+pandas==2.2.3
+pulp==2.9.0
+pytest==8.3.4
+tabulate==0.10.0
